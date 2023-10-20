@@ -1,8 +1,8 @@
 /* styles.css */
 
-div {
+* {
   color: white;
-  background-color: black;
+  background-color: red;
 }
 
 p {
